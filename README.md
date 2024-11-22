@@ -39,4 +39,4 @@ Desiged using HTML5, Bootstrap 5, CSS3.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/tindog.git
+   git clone https://github.com/Dimplektech/Project-TinDog/tree/main
